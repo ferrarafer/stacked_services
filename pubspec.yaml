@@ -1,8 +1,7 @@
 name: stacked_services
 description: A package that contains some default implementations of services required for a cleaner implementation of the Stacked Architecture.
 version: 0.1.0
-author:
-homepage:
+homepage: https://github.com/FilledStacks/stacked_services
 
 environment:
   sdk: ">=2.2.2 <3.0.0"
@@ -11,8 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  get:
-  injectable:
+  get: ^1.17.3
+  injectable: ^0.3.0
 
 dev_dependencies:
   flutter_test:

@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.1.0] - 26-04-2020 - Initial commit with basic services
 
-* TODO: Describe initial release.
+* Adds the `DialogService`, `NavigationService` and `SnackBarService`
